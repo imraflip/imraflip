@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Rafli 👋
 
 <!--
 **imraflip/imraflip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔭 Technologies I work with
+- C
+- Python
+ 
+## 🌱 Currently learning
+- Cybersecurity (Offensive and Defensive)
+- Web Development
+ 
+## 📫 How to reach me
+- X: @imraflip
+- Email: imraflip@gmail.com
