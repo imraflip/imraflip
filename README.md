@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - C
 - Python
  
-## 🌱 Currently learning
+## 🌱 Speciality and Interest
 - Cybersecurity (Offensive and Defensive)
 - Web Development
  
